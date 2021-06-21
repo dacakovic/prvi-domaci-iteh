@@ -1,0 +1,30 @@
+body {
+  background-color: #e3dcc2;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+#main-div {
+  margin: auto;
+  width: 90%;
+  height: max-content;
+}
+
+button {
+  width: 100%;
+  background-color: #a6a867;
+  font-weight: 600;
+}
+
+select {
+  width: 100%;
+  background-color: #e3dc95;
+  font-weight: 600;
+}
+
+option {
+  font-weight: 600;
+}
